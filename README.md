@@ -1,11 +1,11 @@
-# 📊 Sales Dashboard using Excel
+# Sales Dashboard using Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing sales data using **Microsoft Excel** and presenting insights through an **interactive dashboard**. It demonstrates how raw sales data can be transformed into meaningful business insights using **Pivot Tables, charts, and slicers**.
 
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze sales performance across different months
 * Track total sales revenue
@@ -14,7 +14,7 @@ This project focuses on analyzing sales data using **Microsoft Excel** and prese
 * Support data-driven decision making
 
 
-## 🗂 Dataset Description
+##  Dataset Description
 
 The dataset contains sales transaction records with the following fields:
 
@@ -30,7 +30,7 @@ The dataset contains sales transaction records with the following fields:
 | Amount   | Total Sales Amount         |
 
 
-## 📁 Excel Sheets Used
+##  Excel Sheets Used
 
 * **Data** – Main raw sales dataset
 * **Pivot Tables** – Aggregated monthly and total sales
@@ -39,7 +39,7 @@ The dataset contains sales transaction records with the following fields:
 * **Summary Sheets** – Total sales and KPIs
 
 
-## 📊 Key Metrics & Insights
+##  Key Metrics & Insights
 
 * 💰 **Total Sales:** ₹17,82,570
 * 📅 **Best Performing Month:** April
@@ -47,7 +47,7 @@ The dataset contains sales transaction records with the following fields:
 * 🌍 Regional performance comparison (East vs West)
 * 🧑‍💼 Salesman-wise contribution analysis
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 
 * Microsoft Excel
 * Pivot Tables
@@ -56,21 +56,13 @@ The dataset contains sales transaction records with the following fields:
 * Dashboard Design
 
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 * Total Sales KPI Card
 * Monthly Sales Trend
 * Product-wise Sales Analysis
 * Region-wise Sales Comparison
 * Interactive slicers for filtering data
-
-
-## 🚀 How to Use
-
-1. Download the Excel file from the repository
-2. Open it in Microsoft Excel
-3. Navigate to the **Dashboard** sheet
-4. Use slicers to interact with the data
 
 
 ## 🧠 Conclusion
