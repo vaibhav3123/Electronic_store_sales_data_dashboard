@@ -41,11 +41,11 @@ The dataset contains sales transaction records with the following fields:
 
 ##  Key Metrics & Insights
 
-* 💰 **Total Sales:** ₹17,82,570
-* 📅 **Best Performing Month:** April
-* 📈 Monthly sales trend identified using pivot tables
-* 🌍 Regional performance comparison (East vs West)
-* 🧑‍💼 Salesman-wise contribution analysis
+*  **Total Sales:** ₹17,82,570
+*  **Best Performing Month:** April
+*  Monthly sales trend identified using pivot tables
+*  Regional performance comparison (East vs West)
+*  Salesman-wise contribution analysis
 
 ##  Tools & Techniques
 
@@ -65,7 +65,7 @@ The dataset contains sales transaction records with the following fields:
 * Interactive slicers for filtering data
 
 
-## 🧠 Conclusion
+## Conclusion
 
 This project showcases practical skills in **Excel-based data analysis and dashboard creation**. It highlights how Excel can be effectively used for reporting, visualization, and business intelligence in real-world scenarios.
 
